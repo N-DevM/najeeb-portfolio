@@ -5,7 +5,7 @@ export const skillsData = [
     {id: 1, icon: HTMLIcon, name: 'HTML', experience: '4 years experience'},
     {id: 2, icon: JSIcon, name: 'JavaScript', experience: '1 year experience'},
     {id: 3, icon: 'https://cdn-icons-png.flaticon.com/512/2920/2920277.png', name: 'React', experience:'1 year experience'},
-    {id: 4, icon: 'https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png', name: 'Tailwind CSS', experience: 'Beginner, currently learning'},
+    {id: 4, icon: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg', name: 'Tailwind CSS', experience: 'Beginner, currently learning'},
     {id: 5, icon: 'https://media.istockphoto.com/id/1330331950/vector/programmers-work-with-git-isometric-vector-illustration.jpg?s=612x612&w=0&k=20&c=E_OAHi4Bkdi_J0Q8bM5zjKQpZkzGmC9FQc7nhRc_lmE=', name: 'Git/GitHub', experience: '3 years experience'},
 ];
 
