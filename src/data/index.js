@@ -1,4 +1,3 @@
-import { iconRecipe } from '@chakra-ui/react/theme';
 import HTMLIcon from '../assets/html5.png';
 import JSIcon from '../assets/js.jpeg';
 
